@@ -69,14 +69,14 @@ li a:hover {
   background: rgb(167, 238, 53);
   color: black;
 }
-#fusca {
+#flor {
    width: 20%;
 }
-#fusca:hover{
+#flor:hover{
     width: 20%;
 }
 
-.caixaFusca {
+.caixaFlor {
   position: absolute;
   top: 200px;
   left: 0;
@@ -91,8 +91,8 @@ li a:hover {
 }
 
 .estilo {
-    width: 20%;
-    height: 50px;
-    background-color: beige ;
-
-
+width: 20%;
+height: 50px;
+background-color: beige;
+}
+    
