@@ -4,7 +4,7 @@ body {
 h1 {
    text-align: center;
 }
-.caixa1 {
+.caixa1{
   position: absolute;
   background: blue;
   color: #FFFFFF;
@@ -94,5 +94,10 @@ li a:hover {
 width: 20%;
 height: 50px;
 background-color: beige;
+}
+.conteudo {
+  position: absolute;
+  top:45px;
+  width: 100%;
 }
     
